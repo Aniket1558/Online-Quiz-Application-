@@ -1,0 +1,20 @@
+1. Java is a ____?
+A. Language
+B. OS
+C. Hardware
+D. Browser
+Enter Answer: A
+2. Which keyword is used to inherit a class?
+A. super
+B. this
+C. extends
+D. implements
+Enter Answer: D
+3. JVM stands for?
+A. Java Virtual Machine
+B. Java Visual Model
+C. Just VM
+D. None
+Enter Answer: A
+
+Your Score: 2/3
